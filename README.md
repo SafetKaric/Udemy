@@ -1,0 +1,1 @@
+This is a Wordpress theme with Full-Site edit support
